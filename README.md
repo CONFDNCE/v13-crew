@@ -1,15 +1,16 @@
-</h1>V13 Crew Bots<h1>
+V13 Crew Bots
   
-</h1>English<h1>
+English
   
   
-</h1>Türkçe<h1>
- Botlar "pm2" ile çalışmaktadır.Bu nedenle tüm botları tek projede aktif edebilirsiniz.Botların özelliklerine gelirsek, tüm botlarda "Slash Command" bulunmaktadır.Her şeyi komutlar aracılığıyla kurabilirsiniz rol alma menüleri, kullanıcı/owner panel vb.Ayrıca botlarda "Select Menu", "Button", "Context Menu" etkilişimleride bulunmaktadır.Sadece 1 tane bot tokenini sisteme girerek sitenin çalışmasını sağlayabilirsiniz.Öbür botların tokeni siteden girilmektedir.
+Türkçe
+
+ </h1>Botlar "pm2" ile çalışmaktadır.Bu nedenle tüm botları tek projede aktif edebilirsiniz.Botların özelliklerine gelirsek, tüm botlarda "Slash Command" bulunmaktadır.Her şeyi komutlar aracılığıyla kurabilirsiniz rol alma menüleri, kullanıcı/owner panel vb.Ayrıca botlarda "Select Menu", "Button", "Context Menu" etkilişimleride bulunmaktadır.Sadece 1 tane bot tokenini sisteme girerek sitenin çalışmasını sağlayabilirsiniz.Öbür botların tokeni siteden girilmektedir.<h1>
   
-  Guard botlarına gelirsek, gene komutlarla hangi işleme hangi cezanın verilebileciğini ayarlayabilirsiniz.Owner guard özelliği ve sekme koruması bulunmaktadır.Bilmeyenler için kısa bir özetleyim.Owner guard sunucuda herhangi bir işlem olduğunda botun yetkisi kullanıcıyı cezalandırmaya yetmiyorsa taç sahibinin hesabına girerek kullanıcıyı sunucudan banlar.Sekme koruması ise bir kullanıcı tarayıcıdan girdiğinde kullanıcının yetki rollerini çeker ayrıca çekmeye yetkisi yetmiyorsa gene taç sahibinin hesabına girer ve kullanıcının yetkilerini çeker.
+ </h1>Guard botlarına gelirsek, gene komutlarla hangi işleme hangi cezanın verilebileciğini ayarlayabilirsiniz.Owner guard özelliği ve sekme koruması bulunmaktadır.Bilmeyenler için kısa bir özetleyim.Owner guard sunucuda herhangi bir işlem olduğunda botun yetkisi kullanıcıyı cezalandırmaya yetmiyorsa taç sahibinin hesabına girerek kullanıcıyı sunucudan banlar.Sekme koruması ise bir kullanıcı tarayıcıdan girdiğinde kullanıcının yetki rollerini çeker ayrıca çekmeye yetkisi yetmiyorsa gene taç sahibinin hesabına girer ve kullanıcının yetkilerini çeker.<h1>
   
-  Database botlarına gelirsek, gene komutlarla rol veya kanal datasını kaydedebilirsiniz.Ayrıca kendiside otomatik olarak ikisinide kaydetmektedir isterseniz sunucudaki üyeleri, emojileri, alt başlıkları, sunucu özel davet bağlantısını, sunucu ayarlarınıda kaydedebilirsiniz.
+  </h1>Database botlarına gelirsek, gene komutlarla rol veya kanal datasını kaydedebilirsiniz.Ayrıca kendiside otomatik olarak ikisinide kaydetmektedir isterseniz sunucudaki üyeleri, emojileri, alt başlıkları, sunucu özel davet bağlantısını, sunucu ayarlarınıda kaydedebilirsiniz.<h1>
   
-  Site sistemine gelirsek, botları siteden yönetebilirsiniz.Ama öncelikle gerekli botların tokenini girmeniz gerekmetedir ( Zaten sitede kullanım sıralaması var ).Siteden kendinizin , bir arkadaşınızın veya sunucu istatiklerine bakabilirsiniz.Sunucu ayarlarını yapabilirsiniz.
+  </h1>Site sistemine gelirsek, botları siteden yönetebilirsiniz.Ama öncelikle gerekli botların tokenini girmeniz gerekmetedir ( Zaten sitede kullanım sıralaması var ).Siteden kendinizin , bir arkadaşınızın veya sunucu istatiklerine bakabilirsiniz.Sunucu ayarlarını yapabilirsiniz.<h1>
   
-  Kurulum sistemine gelirsek, bottaki komutlarla sunucunuzu hazır hala getirebilirsiniz ( Botta kullanım kılavuzu bulunmaktadır).
+  </h1>Kurulum sistemine gelirsek, bottaki komutlarla sunucunuzu hazır hala getirebilirsiniz ( Botta kullanım kılavuzu bulunmaktadır).<h1>
