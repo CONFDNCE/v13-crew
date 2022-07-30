@@ -14,3 +14,5 @@ Türkçe
   Site sistemine gelirsek, botları siteden yönetebilirsiniz.Ama öncelikle gerekli botların tokenini girmeniz gerekmetedir ( Zaten sitede kullanım sıralaması var ).Siteden kendinizin , bir arkadaşınızın veya sunucu istatiklerine bakabilirsiniz.Sunucu ayarlarını yapabilirsiniz.
   
   Kurulum sistemine gelirsek, bottaki komutlarla sunucunuzu hazır hala getirebilirsiniz ( Botta kullanım kılavuzu bulunmaktadır).<h1>
+
+<img src="https://media.discordapp.net/attachments/934125289892638781/1001069437455179796/unknown.png">
