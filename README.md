@@ -5,7 +5,9 @@ English
   
 Türkçe
 
- Botlar "pm2" ile çalışmaktadır.Bu nedenle tüm botları tek projede aktif edebilirsiniz.Botların özelliklerine gelirsek, tüm botlarda "Slash Command" bulunmaktadır.Her şeyi komutlar aracılığıyla kurabilirsiniz rol alma menüleri, kullanıcı/owner panel vb.Ayrıca botlarda "Select Menu", "Button", "Context Menu" etkilişimleride bulunmaktadır.Sadece 1 tane bot tokenini sisteme girerek sitenin çalışmasını sağlayabilirsiniz.Öbür botların tokeni siteden girilmektedir.
+120 Star ve 30 Fork'da paylaşırım
+
+ Botlar "pm2" ile çalışmaktadır.Bu nedenle tüm botları tek projede aktif edebilirsiniz.Botların özelliklerine gelirsek, tüm botlarda "Slash Command" bulunmaktadır.Her şeyi komutlar aracılığıyla kurabilirsiniz rol alma menüleri, kullanıcı/owner panel vb.Ayrıca botlarda "Select Menu", "Button", "Context Menu" etkilişimleride bulunmaktadır.Sadece 2 tane bot tokenini sisteme girerek sitenin çalışmasını sağlayabilirsiniz.Öbür botların tokeni siteden girilmektedir.
   
  Guard botlarına gelirsek, gene komutlarla hangi işleme hangi cezanın verilebileciğini ayarlayabilirsiniz.Owner guard özelliği ve sekme koruması bulunmaktadır.Bilmeyenler için kısa bir özetleyim.Owner guard sunucuda herhangi bir işlem olduğunda botun yetkisi kullanıcıyı cezalandırmaya yetmiyorsa taç sahibinin hesabına girerek kullanıcıyı sunucudan banlar.Sekme koruması ise bir kullanıcı tarayıcıdan girdiğinde kullanıcının yetki rollerini çeker ayrıca çekmeye yetkisi yetmiyorsa gene taç sahibinin hesabına girer ve kullanıcının yetkilerini çeker.
   
